@@ -72,7 +72,7 @@ http://dmitry-tv.ddns.net/hls/T2/CH_NTV_MIR.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (-1)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV-1.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал
-https://s10390.glaz.tv:8082/liveg/pyatyi-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDI1IDEyOjI4OjQxIFBNJmhhc2hfdmFsdWU9Rk5EelRmNVMxK3RodnI5WVgxTE5NQT09JnZhbGlkbWludXRlcz0yMDA=
+https://s196.glaz.tv:8082/liveg/pyatyi-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNi8yMDI1IDExOjI3OjEwIEFNJmhhc2hfdmFsdWU9UmNDT1Bma3BEbCsxYkZhNVNJZmxsQT09JnZhbGlkbWludXRlcz0yMDA=
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_2.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+4)
