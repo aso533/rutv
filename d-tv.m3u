@@ -58,7 +58,7 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV-1.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ HD
-https://s189.glaz.tv:8082/liveg/ntv-hq.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDI1IDE6MTk6MDQgUE0maGFzaF92YWx1ZT1rR1BtUnl5d28xQzJJYzhPZG9mejNRPT0mdmFsaWRtaW51dGVzPTIwMA==
+https://cdn.ntv.ru/ntv0_hd/index.m3u8?filter.tracks=v4v5a1l1t1
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+2)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_2.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+4)
